@@ -98,7 +98,7 @@ main {
 .barra01,
 .barra02 {
     position: absolute;
-    bottom: 35vh;
+    bottom: 40vh;
     width: 100px;
     height: 20px;
     border-radius: 8px;
